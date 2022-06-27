@@ -83,7 +83,7 @@
       typeWords.disabled = false; //typeword
       playGame();
       par.innerText=++i;
-    } else if (this.innerText === "Done") {
+    }else if (this.innerText === "Done") {
       typeWords.disabled = true;
       btn.innerText = "Start";
       endPlay();
