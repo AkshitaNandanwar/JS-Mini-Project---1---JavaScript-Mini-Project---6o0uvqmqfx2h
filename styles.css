@@ -52,3 +52,15 @@ textarea{
     background: #ecf0f1;
     font-size: 1rem;
 }
+
+#word{
+    color: black;
+}
+
+#btn:active{
+    color: #3460db;
+}
+#btn:hover{
+    background-color: #00FF00;
+    color: #3460db;
+}
